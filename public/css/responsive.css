@@ -1,0 +1,189 @@
+/*	Media 768Px Start */
+@media (min-width: 768px) and (max-width: 1024px) {
+	
+	/* Navigation */
+	.kamkaaj-menu-link { display: inline-block; }
+	#main-nav { display: none; position: absolute; left: 0; top: 100%; width: 220px; } .sm-blue { background: #ffffff; }
+	.kamkaaj-header-one .kamkaaj-right-head { position: relative; }
+	/* Navigation */
+
+	/* Header Two */
+	.kamkaaj-header-two .kamkaaj-menu-link { margin-top: 26px; }
+	.kamkaaj-header-two .sm-blue > li > a { padding: 10px 10px; color: #ffffff; }
+
+	/* Banner */
+	.kamkaaj-banner { padding: 170px 0px 170px 0px; }
+	.kamkaaj-banner-search form ul li,.kamkaaj-banner-search form ul li:last-child { width: 50%; }
+	.kamkaaj-banner-style1-caption { display: none; }
+	.kamkaaj-header-two .kamkaaj-right-head { position: relative; }
+
+	/* Content Grid */
+	.kamkaaj-main-content .col-md-3,.kamkaaj-main-content .col-md-4,.kamkaaj-main-content .kamkaaj-column-4,
+	.kamkaaj-main-content .kamkaaj-column-3 { max-width: 50%; flex: 0 0 50%; width: 50%; }
+	.col-md-4.yodal-summary-box-wrapper,.kamkaaj-main-content .col-md-8,.kamkaaj-main-content .col-md-9,
+	.kamkaaj-main-content .col-md-7,.kamkaaj-main-content .col-md-5,.kamkaaj-main-content .col-md-6,
+	.kamkaaj-main-content .kamkaaj-column-8,.kamkaaj-main-content .kamkaaj-column-9,
+	.kamkaaj-main-content .kamkaaj-column-6 { max-width: 100%; flex: 0 0 100%; width: 100%; }
+
+	.kamkaaj-jobs-listing-view1 .kamkaaj-table-cell { float: left; }
+	.kamkaaj-jobs-listing-view1-thumb { border: none; }
+	.kamkaaj-counter-view1 li:before { display: none; }
+	.kamkaaj-partner-style1 ul li { width: 33.333%; }
+
+	.kamkaaj-candidate-savedjobs { width: 1050px; }
+	.kamkaaj-job-search ul li,.kamkaaj-job-search ul li:last-child { width: 50%; }
+	.kamkaaj-candidate-savedjobs-forrs { float: left; width: 100%; overflow: scroll; }
+	.kamkaaj-services-style2-full { background-size: cover; }
+	.kamkaaj-footer-action { background-color: #fb236a; }
+	.kamkaaj-footer-action:before,.kamkaaj-footer-action h2:after { display: none; }
+
+	/* Footer Widget */
+	.kamkaaj-footer-widget [class*="col-md-"] { float: none; display: inline-block; margin-right: -4px; vertical-align: top; max-width: 50%; flex: 0 0 50%; }
+	.kamkaaj-copyright { text-align: center; }
+	.kamkaaj-copyright p { width: 100%; margin-bottom: 15px; }
+	.kamkaaj-copyright-social { float: none; display: inline-block; }
+	
+}
+
+/* Media 420Px Start */
+@media (max-width: 767px) {
+	
+	/* Header */
+	.kamkaaj-header-one { position: static; float: left; width: 100%; background-color: #274160; padding: 15px 0px 20px 0px; }
+	.kamkaaj-header-one { text-align: center; }
+	.kamkaaj-header-one .kamkaaj-table-cell { width: 100%; float: left; }
+	.kamkaaj-header-one .kamkaaj-table-cell:nth-child(2) { float: none; display: inline-block; width: auto; }
+	.kamkaaj-logo { margin-bottom: 15px; }
+	/* Header */
+
+	/* Header Two */
+	.kamkaaj-header-two .kamkaaj-top-strip { text-align: center; }
+	.kamkaaj-header-two .kamkaaj-stripuser { width: 100%; }
+	.kamkaaj-header-two .kamkaaj-top-strip p,.kamkaaj-header-two .kamkaaj-stripuser li { float: none; display: inline-block; }
+
+	/* Navigation */
+	.kamkaaj-menu-link { display: inline-block; }
+	#main-nav { display: none; position: absolute; left: 0; top: 100%; width: 220px; } .sm-blue { background: #ffffff; }
+	.kamkaaj-header-one .kamkaaj-right-head { position: relative; }
+	/* Navigation */
+
+	/* Header Two */
+	.kamkaaj-header-two .kamkaaj-menu-link { margin-top: 26px; }
+	.kamkaaj-header-two .sm-blue > li > a { padding: 10px 10px; color: #ffffff; }
+
+	/* Banner */
+	.kamkaaj-banner { padding: 120px 0px 120px 0px; }
+	.kamkaaj-banner-search form ul li,.kamkaaj-banner-search form ul li:last-child { width: 50%; }
+	.kamkaaj-banner-style1-caption { display: none; }
+	.kamkaaj-header-two .kamkaaj-right-head { position: relative; }
+	.kamkaaj-banner-style1-shape { display: none; }
+	.kamkaaj-categories-style2-full { margin-top: 0px; }
+
+	/* Content Grid */
+	.kamkaaj-main-content .col-md-3,.kamkaaj-main-content .col-md-4,.kamkaaj-main-content .kamkaaj-column-4,
+	.kamkaaj-main-content .kamkaaj-column-3 { max-width: 50%; flex: 0 0 50%; width: 50%; }
+	.col-md-4.yodal-summary-box-wrapper,.kamkaaj-main-content .col-md-8,.kamkaaj-main-content .col-md-9,
+	.kamkaaj-main-content .col-md-7,.kamkaaj-main-content .col-md-5,.kamkaaj-main-content .col-md-6,
+	.kamkaaj-main-content .kamkaaj-column-6,.kamkaaj-main-content .kamkaaj-column-8,.kamkaaj-main-content .kamkaaj-column-9 { max-width: 100%; flex: 0 0 100%; width: 100%; }
+
+	.kamkaaj-jobs-listing-view1 .kamkaaj-table-cell { float: left; }
+	.kamkaaj-jobs-listing-view1-thumb { border: none; }
+	.kamkaaj-counter-view1 li:before { display: none; }
+	.kamkaaj-partner-style1 ul li { width: 50%; }
+	.kamkaaj-job-type-btn,.kamkaaj-thumbnail-options li:before { display: none; }
+	.kamkaaj-jobs-listing-view1-options li { line-height: 1.4; }
+	.kamkaaj-jobs-listing-view1-options li:last-child:before { margin-left: 0px; }
+	.kamkaaj-categories-view1 a { word-break: break-all; }
+	.kamkaaj-banner-search h1 { font-size: 30px; }
+	.kamkaaj-sub-header { padding-top: 50px; }
+	.kamkaaj-thumbnail-options li { padding-right: 20px; }
+	.kamkaaj-post-tags { text-align: center; }
+	.kamkaaj-social-tag { width: 100%; }
+	.kamkaaj-blog-social,.kamkaaj-social-tag a,.kamkaaj-blog-social ul { float: none; display: inline-block; }
+	.kamkaaj-social-tag a { margin: 0px 10px 20px 10px; }
+	.kamkaaj-blog-social ul li { margin-left: 10px; margin-right: 10px; }
+	.kamkaaj-detail-editor ul li { line-height: 1.5; }
+	.kamkaaj-blog-social,.kamkaaj-prev-post, .kamkaaj-next-post { width: 100%; }
+	.kamkaaj-applied-jobs-thumb ~ .kamkaaj-applied-jobs-text { margin-left: 0px; float: left; width: 100%; padding: 20px 25px 20px 0px; }
+	.kamkaaj-applied-jobs-text ul li { border: none; padding-left: 0px; margin-bottom: 10px; }
+	
+	.kamkaaj-applied-jobs-btn,.kamkaaj-candidate-timeline-btn { position: static; float: left; width: auto; margin: 0px 0px 20px 0px; }
+	.kamkaaj-applied-jobs-btn a,.kamkaaj-candidate-timeline-btn a { float: left; width: 40px; height: 40px; padding-top: 12px; border-right: 1px solid rgba(255,255,255,0.30); }
+	.kamkaaj-candidate-timeline-btn { margin-top: 15px; }
+	
+	.kamkaaj-applied-jobs-inner { padding: 20px 0px 0px 25px; }
+	.kamkaaj-applied-jobs-text h2 { line-height: 1.4; }
+	.kamkaaj-pagination > ul > li { margin-bottom: 10px; }
+	.kamkaaj-fileupload { float: left; margin: 10px 0px 0px 0px; }
+	.kamkaaj-dashboard-navthumb-text span { float: left; width: 100%; }
+
+	.kamkaaj-candidate-savedjobs { width: 1050px; }
+	.kamkaaj-jobdetail-services ul li { width: 50%; }
+	.kamkaaj-candidates-list figure ~ .kamkaaj-candidates-list-text { padding-left: 0px; float: left; width: 100%; }
+	.kamkaaj-candidates-list-wrap { padding: 20px 20px 0px 20px; }
+	.kamkaaj-candidates-list-btn { -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -ms-transform: rotate(0deg); -o-transform: rotate(0deg); transform: rotate(0deg); right: 0px; top: 0px; border: none; }
+	.kamkaaj-contact-form ul li { width: 100%; } .kamkaaj-contact-form ul li.textarea-element { position: static; float: left; width: 100%; }
+	.kamkaaj-jobdetail-list figure ~ .kamkaaj-jobdetail-list-text { margin-left: 0px; float: left; width: 100%; padding-top: 15px; }
+	.kamkaaj-employer-list .kamkaaj-table-cell { float: left; width: 100%; padding-top: 15px; }
+	.kamkaaj-employer-list .kamkaaj-table-layer { padding-bottom: 25px; }
+	.kamkaaj-employersdetail-social a { margin-left: 0px; margin-right: 10px; margin-top: 15px; }
+	.kamkaaj-job-listing .kamkaaj-tabce { float: left; width: 100% !important; }
+	.kamkaaj-job-listing-text { padding-left: 0px; padding-top: 15px; padding-bottom: 15px; }
+	.kamkaaj-job-search ul li,.kamkaaj-job-search ul li:last-child { width: 50%; }
+	.kamkaaj-candidate-savedjobs-forrs { float: left; width: 100%; overflow: scroll; }
+	.kamkaaj-services-style2-full { background-size: cover; }
+	.kamkaaj-footer-action { background-color: #fb236a; }
+	.kamkaaj-footer-action:before,.kamkaaj-footer-action h2:after { display: none; }
+	.kamkaaj-partner-classic ul li { width: 33.333%; border: none; }
+	.kamkaaj-footer-action h2 { margin-bottom: 15px; }
+
+
+	/* Footer Widget */
+	.kamkaaj-footer-widget [class*="col-md-"] { float: none; display: inline-block; margin-right: -4px; vertical-align: top; max-width: 50%; flex: 0 0 50%; }
+	.kamkaaj-copyright { text-align: center; }
+	.kamkaaj-copyright p { width: 100%; margin-bottom: 15px; }
+	.kamkaaj-copyright-social { float: none; display: inline-block; }
+	.kamkaaj-footer-one { background-size: cover; }
+
+
+}
+
+/* Media 300Px Start */
+@media (max-width: 540px) {
+	
+	/* Header */
+	.kamkaaj-header-one .kamkaaj-right-head { float: left; width: 100%; }
+	.kamkaaj-header-one .kamkaaj-right-head:nth-child(2) { width: auto; float: none; display: inline-block; margin-top: 15px; }
+	#main-nav { left: -100%; }
+	/* Header */
+
+	/* Header Two */
+	.kamkaaj-header-two .kamkaaj-header-main { text-align: center; }
+	.kamkaaj-header-two .kamkaaj-logo { width: 100%; margin-bottom: 0px; }
+	.kamkaaj-header-two .kamkaaj-right-head { float: none; display: inline-block; padding-bottom: 15px; }
+	.kamkaaj-header-two #main-nav { left: auto; right: 0px; }
+
+	/* Banner */
+	.kamkaaj-banner-search form ul li,.kamkaaj-banner-search form ul li:last-child { width: 100%; margin-bottom: 10px; }
+
+	/* Content Grid */
+	.kamkaaj-main-content .col-md-3,.kamkaaj-main-content .col-md-4,
+	.kamkaaj-main-content .kamkaaj-column-3,.kamkaaj-main-content .kamkaaj-column-4 { max-width: 100%; flex: 0 0 100%; width: 100%; }
+	.kamkaaj-admin-post figure ~ .kamkaaj-admin-text { float: left; width: 100%; padding-left: 0px; padding-top: 15px; }
+	.comment-list li figure ~ .text-holder { float: left; width: 100%; padding-left: 0px; padding-top: 15px; }
+	.comment-list .children > li .thumb-list { padding-left: 10px; }
+	.comment-respond form p { width: 100%; }
+	.kamkaaj-dashboard-navthumb img ~ .kamkaaj-dashboard-navthumb-text { padding-top: 0px; }
+	.kamkaaj-mini-col,.kamkaaj-jobdetail-services ul li { width: 100%; }
+	.kamkaaj-job-search ul li,.kamkaaj-job-search ul li:last-child { width: 100%; }
+	.kamkaaj-partner-classic ul li { width: 100%; border-right: none; }
+
+	/* Footer Widget */
+	.kamkaaj-footer-widget [class*="col-md-"] { max-width: 100%; flex: 0 0 100%; }
+
+}
+
+/* Media 940Px Start */
+@media screen and (min-width: 991px) and (max-width: 1054px) {
+	.kamkaaj-candidate-savedjobs-forrs { float: left; width: 100%; overflow: scroll; }
+}

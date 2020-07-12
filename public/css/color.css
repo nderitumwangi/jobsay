@@ -1,0 +1,59 @@
+/* ThemeColor One */
+
+.kamkaaj-color,.kamkaaj-colorhover:hover,.kamkaaj-parallex-wrap a:hover,.kamkaaj-pricepackages-style1 ul li.active,.widget_categories ul li:hover a,
+blockquote:before,.kamkaaj-detail-editor ul li:before,.kamkaaj-save-btn,.kamkaaj-jobdetail-list-btn:hover,.kamkaaj-employer-list .kamkaaj-table-layer:hover h2 a,
+li:hover .kamkaaj-employer-grid-btn,.kamkaaj-education-list-sub,.kamkaaj-candidate-timeline-inner span,
+.kamkaaj-contact-form input[type="submit"]:hover,.contact-service li:hover a,.kamkaaj-cart-box-close,.kamkaaj-footer-action a:hover {
+    color: #274160;
+}
+
+.kamkaaj-bgcolor,.kamkaaj-bgcolorhover:hover,.kamkaaj-dark-transparent,.kamkaaj-categories-view1 li:hover i,.kamkaaj-main-load-btn a:hover,.kamkaaj-banner-transparent,
+.kamkaaj-pricepackages-style1:hover .kamkaaj-pricepackages-style1-btn,.kamkaaj-pricepackages-style1.active,.kamkaaj-blog-link-hover:before,.submit:hover,
+.kamkaaj-jobsearch-submit-btn:hover i,.kamkaaj-job-listing-savelist-btn:hover,.kamkaaj-jobdetail-list-text a.job-view-map,.kamkaaj-jobdetail-list-btn,
+li:hover .kamkaaj-jobdetail-services-inner,.kamkaaj-jobdetail-tags a:hover,.shortlist_job_btn:hover,.widget_application_apply_btn:hover,.widget_application_apply_send,
+.kamkaaj-employer-list-btn:hover,.widget_contact_form form input[type="submit"],.kamkaaj-candidates-grid figure figcaption:before,
+.kamkaaj-candidates-list-btn,.kamkaaj-fileupload:hover span,.kamkaaj-candidate-timeline-btn,.kamkaaj-candidate-dgallery figure:before,.kamkaaj-candidate-savedjobs thead,
+.kamkaaj-login-box input[type="submit"],.kamkaaj-header-btn:hover,.kamkaaj-top-strip,.kamkaaj-more-view1-btn a,.kamkaaj-counter-style1-full,
+.kamkaaj-footer-action a,.kamkaaj-search-btn {
+    background-color: #274160;
+}
+
+.kamkaaj-border-color,.kamkaaj-border-colorhover:hover,.kamkaaj-categories-view1 li:hover i,.kamkaaj-pricepackages-style1:hover .kamkaaj-pricepackages-style1-btn,
+.kamkaaj-job-listing-savelist-btn:hover,.kamkaaj-jobdetail-list-btn,.kamkaaj-employer-list-btn:hover,li:hover .kamkaaj-employer-grid-btn,
+.widget_contact_form form input[type="submit"],.kamkaaj-fileupload:hover span,.kamkaaj-contact-form input[type="submit"]:hover,
+.contact-service li:hover a,.kamkaaj-more-view1-btn a,.kamkaaj-footer-action a {
+    border-color: #274160;
+}
+
+
+/* ThemeColor Two */
+.kamkaaj-color-two,.kamkaaj-colorhover-two:hover,.sm-blue ul a:hover, .sm-blue ul a:focus, .sm-blue ul a:active, .sm-blue ul a.highlighted,.header-options-btn:hover,
+.kamkaaj-categories-view1-wrap i,li:hover .kamkaaj-job-type-btn,.kamkaaj-pricepackages-style1-btn,.widget_newslatter input[type="submit"]:hover,.kamkaaj-breadcrumb ul li,
+.kamkaaj-job-listing-savelist-btn,.kamkaaj-job-tag a,li:hover .kamkaaj-jobgrid-text h2 a,.kamkaaj-jobdetail-editor ul li:before,.kamkaaj-employer-list-btn,
+.widget_contact_form form input[type="submit"]:hover,.widget_employer_download_btn:hover,.kamkaaj-education-list time,.kamkaaj-fileupload span,
+.kamkaaj-profile-form-btn input[type="submit"]:hover,.kamkaaj-banner-search-style1 .submit-section:hover i,.kamkaaj-more-view1-btn a:hover,
+li:hover .kamkaaj-popular-candidates-wrap h2 a {
+	color: #fb236a;
+}
+
+.kamkaaj-bgcolor-two,.kamkaaj-bgcolorhover-two:hover,.kamkaaj-banner-search input[type="submit"],.kamkaaj-main-load-btn a,.kamkaaj-parallex-wrap a,.kamkaaj-counter-view1-full,
+.slick-dots li button,.kamkaaj-copyright-social li:hover a,.kamkaaj-pagination > ul > li:first-child > a,.kamkaaj-pagination > ul > li:last-child > a,
+.kamkaaj-footer-one,.kamkaaj-pagination > ul > li > a:hover,.kamkaaj-pagination > ul > li > span.current,.kamkaaj_widget_title:before,.kamkaaj-blog-grid-text:before,
+blockquote:after,.kamkaaj-social-tag a:hover,.submit,.kamkaaj-jobsearch-submit-btn i,.kamkaaj-job-listing time,.kamkaaj-job-like:hover,
+.shortlist_job_btn,.widget_application_apply_btn,.widget_application_apply_send:hover,.kamkaaj-employer-list small,
+.widget_employer_info_social a:hover,.widget_employer_download_btn,.kamkaaj-dashboard-nav ul li.active a,.kamkaaj-dashboard-nav ul li:hover a,
+.kamkaaj-candidate-title:before,.kamkaaj-profile-form-btn input[type="submit"],.kamkaaj-candidate-timeline-inner small,.kamkaaj-candidate-timeline-btn a:hover,
+.kamkaaj-candidate-dgallery figcaption a:hover,.kamkaaj-candidate-savedjobs tbody td span,.kamkaaj-savedjobs-links.kamkaaj-view-btn,
+.kamkaaj-applied-jobs-btn a:hover,.kamkaaj-contact-form input[type="submit"],.contact-service a,.kamkaaj-employer-dgallery figcaption a:hover,
+.kamkaaj-header-btn,.kamkaaj-banner-style1-caption a.kamkaaj-banner-style1-btn,.kamkaaj-banner-search-style1 .submit-section i,.kamkaaj-services-style2 li:hover i,
+li:hover .kamkaaj-popular-candidates-wrap:before {
+	background-color: #fb236a;
+}
+
+.kamkaaj-border-color-two,.kamkaaj-border-colorhover-two:hover,.header-options-btn,.kamkaaj-pricepackages-style1-btn,.widget_newslatter input[type="submit"],
+.kamkaaj-pagination > ul > li:first-child > a,.kamkaaj-pagination > ul > li:last-child > a,.kamkaaj-pagination > ul > li > a:hover,.kamkaaj-pagination > ul > li > span.current,
+.kamkaaj-job-listing-savelist-btn,.kamkaaj-employer-list-btn,.widget_contact_form form input[type="submit"]:hover,.widget_employer_download_btn,.kamkaaj-education-list-circle,
+.kamkaaj-dashboard-navthumb,.kamkaaj-fileupload span,.kamkaaj-profile-form-btn input[type="submit"],.kamkaaj-contact-form input[type="submit"],.contact-service a,
+.kamkaaj-banner-style1-caption a.kamkaaj-banner-style1-btn,.kamkaaj-banner-search-style1 .submit-section i,.kamkaaj-more-view1-btn a:hover {
+	border-color: #fb236a;
+}

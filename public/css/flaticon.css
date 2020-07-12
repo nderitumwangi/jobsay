@@ -1,0 +1,428 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoonc271.eot?e9agv2');
+  src:  url('../fonts/icomoonc271.eot?e9agv2#iefix') format('embedded-opentype'),
+    url('../fonts/icomoonc271.ttf?e9agv2') format('truetype'),
+    url('../fonts/icomoonc271.woff?e9agv2') format('woff'),
+    url('../fonts/icomoonc271.svg?e9agv2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-flat {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.kamkaaj-people:before {
+  content: "\e900";
+}
+.kamkaaj-target:before {
+  content: "\e901";
+}
+.kamkaaj-human-resources:before {
+  content: "\e902";
+}
+.kamkaaj-arrow-left-long:before {
+  content: "\e903";
+}
+.kamkaaj-twitter:before {
+  content: "\e904";
+}
+.kamkaaj-hospital:before {
+  content: "\e905";
+}
+.kamkaaj-money:before {
+  content: "\e906";
+}
+.kamkaaj-apple:before {
+  content: "\e907";
+}
+.kamkaaj-user-plus:before {
+  content: "\e908";
+}
+.kamkaaj-diamond:before {
+  content: "\e909";
+}
+.kamkaaj-map-pin-fill:before {
+  content: "\e90a";
+}
+.kamkaaj-play-circular:before {
+  content: "\e90b";
+}
+.kamkaaj-arrow-pointing-to-right:before {
+  content: "\e90c";
+}
+.kamkaaj-arrow-pointing-to-left:before {
+  content: "\e90d";
+}
+.kamkaaj-user:before {
+  content: "\e90e";
+}
+.kamkaaj-login:before {
+  content: "\e90f";
+}
+.kamkaaj-android-logo:before {
+  content: "\e910";
+}
+.kamkaaj-resume-document:before {
+  content: "\e911";
+}
+.kamkaaj-paper:before {
+  content: "\e912";
+}
+.kamkaaj-coding:before {
+  content: "\e913";
+}
+.kamkaaj-office:before {
+  content: "\e914";
+}
+.kamkaaj-clock-hours:before {
+  content: "\e915";
+}
+.kamkaaj-company-workers:before {
+  content: "\e916";
+}
+.kamkaaj-graphic:before {
+  content: "\e917";
+}
+.kamkaaj-support:before {
+  content: "\e918";
+}
+.kamkaaj-pen:before {
+  content: "\e919";
+}
+.kamkaaj-search-papper:before {
+  content: "\e91a";
+}
+.kamkaaj-handshake:before {
+  content: "\e91b";
+}
+.kamkaaj-office-building:before {
+  content: "\e91c";
+}
+.kamkaaj-check-square:before {
+  content: "\e91d";
+}
+.kamkaaj-arrow-right-circular-fill:before {
+  content: "\e91e";
+}
+.kamkaaj-arrow-down-circular-fill:before {
+  content: "\e91f";
+}
+.kamkaaj-building:before {
+  content: "\e920";
+}
+.kamkaaj-curriculum:before {
+  content: "\e921";
+}
+.kamkaaj-user-line-double:before {
+  content: "\e922";
+}
+.kamkaaj-discuss-issue:before {
+  content: "\e923";
+}
+.kamkaaj-newspaper:before {
+  content: "\e924";
+}
+.kamkaaj-fax:before {
+  content: "\e925";
+}
+.kamkaaj-placeholder:before {
+  content: "\e926";
+}
+.kamkaaj-linkedin-fill:before {
+  content: "\e927";
+}
+.kamkaaj-facebook:before {
+  content: "\e928";
+}
+.kamkaaj-summary:before {
+  content: "\e929";
+}
+.kamkaaj-calendar-line:before {
+  content: "\e92a";
+}
+.kamkaaj-heart-fill:before {
+  content: "\e92b";
+}
+.kamkaaj-check-box-fill:before {
+  content: "\e92c";
+}
+.kamkaaj-check-box-empty:before {
+  content: "\e92d";
+}
+.kamkaaj-checked:before {
+  content: "\e92e";
+}
+.kamkaaj-linkedin:before {
+  content: "\e92f";
+}
+.kamkaaj-user-circular:before {
+  content: "\e930";
+}
+.kamkaaj-star-empty:before {
+  content: "\e931";
+}
+.kamkaaj-upload:before {
+  content: "\e932";
+}
+.kamkaaj-plus-circular:before {
+  content: "\e933";
+}
+.kamkaaj-credit-card-line:before {
+  content: "\e934";
+}
+.kamkaaj-star-fill:before {
+  content: "\e935";
+}
+.kamkaaj-right-arrow-long:before {
+  content: "\e936";
+}
+.kamkaaj-credit-card:before {
+  content: "\e937";
+}
+.kamkaaj-time:before {
+  content: "\e938";
+}
+.kamkaaj-folder:before {
+  content: "\e939";
+}
+.kamkaaj-group:before {
+  content: "\e93a";
+}
+.kamkaaj-linkedin-circular:before {
+  content: "\e93b";
+}
+.kamkaaj-twitter-circular:before {
+  content: "\e93c";
+}
+.kamkaaj-facebook-circular:before {
+  content: "\e93d";
+}
+.kamkaaj-internet:before {
+  content: "\e93e";
+}
+.kamkaaj-calendar:before {
+  content: "\e93f";
+}
+.kamkaaj-view:before {
+  content: "\e940";
+}
+.kamkaaj-rubbish:before {
+  content: "\e941";
+}
+.kamkaaj-edit:before {
+  content: "\e942";
+}
+.kamkaaj-resume-user:before {
+  content: "\e943";
+}
+.kamkaaj-logout:before {
+  content: "\e944";
+}
+.kamkaaj-multimedia:before {
+  content: "\e945";
+}
+.kamkaaj-id-card:before {
+  content: "\e946";
+}
+.kamkaaj-alarm:before {
+  content: "\e947";
+}
+.kamkaaj-briefcase-time:before {
+  content: "\e948";
+}
+.kamkaaj-resume:before {
+  content: "\e949";
+}
+.kamkaaj-google-plus-circular-fill:before {
+  content: "\e94a";
+}
+.kamkaaj-add:before {
+  content: "\e94b";
+}
+.kamkaaj-download-arrow:before {
+  content: "\e94c";
+}
+.kamkaaj-technology:before {
+  content: "\e94d";
+}
+.kamkaaj-envelope-line:before {
+  content: "\e94e";
+}
+.kamkaaj-trophy:before {
+  content: "\e94f";
+}
+.kamkaaj-design-skills:before {
+  content: "\e950";
+}
+.kamkaaj-degree-cap:before {
+  content: "\e951";
+}
+.kamkaaj-network:before {
+  content: "\e952";
+}
+.kamkaaj-user-line:before {
+  content: "\e953";
+}
+.kamkaaj-briefcase:before {
+  content: "\e954";
+}
+.kamkaaj-social-media:before {
+  content: "\e955";
+}
+.kamkaaj-salary:before {
+  content: "\e956";
+}
+.kamkaaj-check-circular-fill:before {
+  content: "\e957";
+}
+.kamkaaj-sort:before {
+  content: "\e958";
+}
+.kamkaaj-envelope:before {
+  content: "\e959";
+}
+.kamkaaj-add-list:before {
+  content: "\e95a";
+}
+.kamkaaj-squares:before {
+  content: "\e95b";
+}
+.kamkaaj-list:before {
+  content: "\e95c";
+}
+.kamkaaj-up-arrow:before {
+  content: "\e95d";
+}
+.kamkaaj-right-arrow:before {
+  content: "\e95e";
+}
+.kamkaaj-instagram-circular-fill:before {
+  content: "\e95f";
+}
+.kamkaaj-linkedin-circular-fill:before {
+  content: "\e960";
+}
+.kamkaaj-dribbble-circular-fill:before {
+  content: "\e961";
+}
+.kamkaaj-twitter-circular-fill:before {
+  content: "\e962";
+}
+.kamkaaj-facebook-circular-fill:before {
+  content: "\e963";
+}
+.kamkaaj-play-button:before {
+  content: "\e964";
+}
+.kamkaaj-arrow-right-circular:before {
+  content: "\e965";
+}
+.kamkaaj-arrow-left-circular-fill:before {
+  content: "\e966";
+}
+.kamkaaj-two-quotes:before {
+  content: "\e967";
+}
+.kamkaaj-left-quote:before {
+  content: "\e968";
+}
+.kamkaaj-filter-tool-black-shape:before {
+  content: "\e969";
+}
+.kamkaaj-map-pin:before {
+  content: "\e96a";
+}
+.kamkaaj-heart:before {
+  content: "\e96b";
+}
+.kamkaaj-business:before {
+  content: "\e96c";
+}
+.kamkaaj-fast-food:before {
+  content: "\e96d";
+}
+.kamkaaj-books:before {
+  content: "\e96e";
+}
+.kamkaaj-antenna:before {
+  content: "\e96f";
+}
+.kamkaaj-hospital2:before {
+  content: "\e970";
+}
+.kamkaaj-accounting:before {
+  content: "\e971";
+}
+.kamkaaj-car:before {
+  content: "\e972";
+}
+.kamkaaj-engineer:before {
+  content: "\e973";
+}
+.kamkaaj-search:before {
+  content: "\e974";
+}
+.kamkaaj-down-arrow:before {
+  content: "\e975";
+}
+.kamkaaj-location:before {
+  content: "\e976";
+}
+.kamkaaj-briefcase-line:before {
+  content: "\e977";
+}
+.kamkaaj-arrow-up-circular:before {
+  content: "\e978";
+}
+.kamkaaj-upload-arrow:before {
+  content: "\e979";
+}
+.kamkaaj-arrow-right-fill:before {
+  content: "\ea3c";
+}
+.kamkaaj-arrow-left:before {
+  content: "\ea40";
+}
+.kamkaaj-arrow-right-bold:before {
+  content: "\eaef";
+}
+.kamkaaj-arrow-right:before {
+  content: "\eb2d";
+}
+.kamkaaj-list-sign:before {
+  content: "\eb44";
+}
+.kamkaaj-grid-square:before {
+  content: "\eb45";
+}
+.kamkaaj-arrow-right-light:before {
+  content: "\eb60";
+}
+.kamkaaj-map-location-pin:before {
+  content: "\eb6e";
+}
+.kamkaaj-check-mark:before {
+  content: "\eb73";
+}
+.kamkaaj-map-pin-square:before {
+  content: "\eb76";
+}
+.kamkaaj-edit-tool:before {
+  content: "\eb7d";
+}
+.kamkaaj-building-office:before {
+  content: "\eb92";
+}

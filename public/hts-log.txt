@@ -1,0 +1,74 @@
+HTTrack3.49-2 launched on Mon, 21 Oct 2019 18:53:28 at http://psdconverthtml.com/live/yourjob/yourjob-v1/index.html
+(httrack http://psdconverthtml.com/live/yourjob/yourjob-v1/index.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:53:31	Warning: 	Moved Permanently for psdconverthtml.com/robots.txt
+18:53:31	Warning: 	Redirected link is identical because of 'URL Hack' option: psdconverthtml.com/robots.txt and https://psdconverthtml.com/robots.txt
+18:53:31	Warning: 	Warning moved treated for psdconverthtml.com/robots.txt (real one is https://psdconverthtml.com/robots.txt)
+18:56:25	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/style.css (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+18:57:54	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/freelancer-dashboard.html (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+19:02:24	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_06.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+19:02:24	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_05.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+19:02:29	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/about_02.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+19:02:34	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/employer-edit-profile.html (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+19:02:34	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/images/flogo.png (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+19:02:34	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/yourjob/yourjob-v1/fonts/glyphicons-halflings-regular.woff2
+19:02:34	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/fonts/glyphicons-halflings-regular.ttf (from psdconverthtml.com/live/yourjob/yourjob-v1/css/bootstrap.min.css)
+19:02:48	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/employer.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/employer-profile.html)
+19:02:48	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_09.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/employer-listing.html)
+19:02:48	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_13.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/employer-listing.html)
+19:02:52	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_16.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/employer-listing.html)
+19:02:56	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_18.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/employer-listing.html)
+19:02:57	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_19.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/employer-listing.html)
+19:03:02	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/service_01.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/page-services.html)
+19:03:02	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/service_05.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/page-services.html)
+19:03:03	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/service_06.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/page-services.html)
+19:03:03	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/service_08.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/page-services.html)
+19:03:06	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/shop_01.png (from psdconverthtml.com/live/yourjob/yourjob-v1/shop.html)
+19:03:07	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/about.html (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:03:07	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/services.html (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:03:07	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/elements.html (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:03:07	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/page.html (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:03:07	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/404.html (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:03:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/sitemap.html (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:03:09	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/js/map.js (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:03:19	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/blog-single-sidebar.html (from psdconverthtml.com/live/yourjob/yourjob-v1/blog.html)
+19:03:19	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/blog_03.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/blog.html)
+19:03:19	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/blog_01.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/blog.html)
+19:03:19	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/blog_02.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/blog.html)
+19:03:20	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/about_02.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+19:03:34	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/images/flogo.png (from psdconverthtml.com/live/yourjob/yourjob-v1/index.html)
+19:03:35	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/fonts/glyphicons-halflings-regular.ttf (from psdconverthtml.com/live/yourjob/yourjob-v1/css/bootstrap.min.css)
+19:04:10	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/yourjob/yourjob-v1/fonts/poppins-bold-webfont.woff2
+19:04:10	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/yourjob/yourjob-v1/fonts/poppins-light-webfont.woff2
+19:04:10	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/yourjob/yourjob-v1/fonts/poppins-medium-webfont.woff2
+19:04:10	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/yourjob/yourjob-v1/fonts/poppins-regular-webfont.woff2
+19:04:10	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/yourjob/yourjob-v1/fonts/poppins-semibold-webfont.woff2
+19:04:10	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_18.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/employer-listing.html)
+19:04:10	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/service_01.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/page-services.html)
+19:04:11	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/service_05.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/page-services.html)
+19:04:12	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/shop_01.png (from psdconverthtml.com/live/yourjob/yourjob-v1/shop.html)
+19:04:13	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/sitemap.html (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:04:13	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/js/map.js (from psdconverthtml.com/live/yourjob/yourjob-v1/page-shortcodes.html)
+19:04:16	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/alignleft.png (from psdconverthtml.com/live/yourjob/yourjob-v1/single.html)
+19:04:17	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/author.html (from psdconverthtml.com/live/yourjob/yourjob-v1/single.html)
+19:04:17	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/avatar_01.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/single.html)
+19:04:18	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/yourjob/yourjob-v1/css/owl.video.play.png (from psdconverthtml.com/live/yourjob/yourjob-v1/css/owl.carousel.css)
+19:04:18	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/fonts/fontawesome-webfont.eot?v=4.6.3 (from psdconverthtml.com/live/yourjob/yourjob-v1/css/font-awesome.css)
+19:04:19	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/fonts/fontawesome-webfont.eot? (from psdconverthtml.com/live/yourjob/yourjob-v1/css/font-awesome.css)
+19:04:19	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/yourjob/yourjob-v1/fonts/fontawesome-webfont.woff2?v=4.6.3
+19:04:19	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/fonts/open-iconic.eot? (from psdconverthtml.com/live/yourjob/yourjob-v1/css/open-iconic.min.css)
+19:04:20	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/fonts/open-iconic.woff (from psdconverthtml.com/live/yourjob/yourjob-v1/css/open-iconic.min.css)
+19:04:24	Error: 	"No data (connection closed)" (-4) after 2 retries at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/job_18.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/employer-listing.html)
+19:04:24	Error: 	"No data (connection closed)" (-4) after 2 retries at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/shop_01.png (from psdconverthtml.com/live/yourjob/yourjob-v1/shop.html)
+19:04:24	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/avatar_01.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/single.html)
+19:04:34	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/yourjob/yourjob-v1/fonts/open-iconic.eot? (from psdconverthtml.com/live/yourjob/yourjob-v1/css/open-iconic.min.css)
+19:04:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link psdconverthtml.com/live/yourjob/yourjob-v1/upload/avatar_01.jpg (from psdconverthtml.com/live/yourjob/yourjob-v1/single.html)
+19:04:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link psdconverthtml.com/live/yourjob/yourjob-v1/fonts/open-iconic.eot? (from psdconverthtml.com/live/yourjob/yourjob-v1/css/open-iconic.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 7 seconds : 226 links scanned, 171 files written (13025468 bytes overall) [11307936 bytes received at 16953 bytes/sec], 2656457 bytes transferred using HTTP compression in 74 files, ratio 23%, 2.5 requests per connection
+(14 errors, 49 warnings, 0 messages)
