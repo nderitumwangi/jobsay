@@ -107,7 +107,12 @@ class PageController extends Controller {
         auth('employer')->loginUsingId($employer->id);
         return redirect()->route('employer.dashboard');
     }
-
+public function view_jobs(){
+    $jobs = Job::query()->orderByDesc('created_at')->get();
+    return view('pages.available_jobs', [
+        'jobs' => $jobs,
+    ]);
+}
     /**
      * @param Request $request
      * @return \Illuminate\Http\RedirectResponse
