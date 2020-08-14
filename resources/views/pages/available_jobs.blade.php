@@ -200,11 +200,10 @@
                                     $count = 1;
                                     ?>
                                     @foreach($jobs as $job)
-                                        <li class="col-md-12">
+                                         <li class="col-md-12">
                                             <div class="kamkaaj-table">
                                                 <div class="kamkaaj-table-row">
-                                                    <div class="kamkaaj-table-cell"><a href="#"
-                                                                                       class="kamkaaj-jobs-listing-view1-thumb">
+                                                    <div class="kamkaaj-table-cell"><a href="#" class="kamkaaj-jobs-listing-view1-thumb">
                                                             <img src="{{ asset('extra-images/' .$job->company_logo) }}" alt=""></a></div>
                                                     <div class="kamkaaj-table-cell">
                                                         <div class="kamkaaj-jobs-listing-view1-wrap2">
@@ -222,14 +221,14 @@
                                                                 </li>
                                                                 <li><i class="icon-flat kamkaaj-filter-tool-black-shape"></i>
                                                                     <a href="#">{{ $job->job_category }}</a></li>
-                                                                <li><i class="fa fa-heart"></i> <a href="#">Like Job</a></li>
 
+3
                                                             </ul>
 
                                                         </div>
 
                                                     </div>
-                                                    <button class=" btn-block  btn-lg " href=" #" >Apply  Job</button>
+                                                    <button class=" btn-block  btn-lg " href="{{route('')}}">Apply  Job</button>
                                                     <div class="kamkaaj-table-cell">
                                                         <a href="#" class="kamkaaj-job-type-btn"><span>{{ $job->job_type }}</span></a>
                                                     </div>

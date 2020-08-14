@@ -31,6 +31,11 @@ Route::get('/job', [
     'uses'=>'PageController@job',
     'as'=>'job'
 ]);
+Route::get('/job/application/{id}', [
+    'uses'=>'PageController@ApplyJob',
+    'as'=>'jobApplication'
+]);
+
 Route::get('/contact', [
     'uses'=>'PageController@contact',
     'as'=>'contact'

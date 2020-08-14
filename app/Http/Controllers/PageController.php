@@ -51,7 +51,30 @@ class PageController extends Controller {
         ]);
 
     }
+    public function ApplyJob(Request $request){
 
+            try{
+                // Find the post by id
+                $job = Job::query()->find($request->id);
+
+                $job->update([
+                    'company_name' => $request->company_name,
+                    'company_website' => $request->company_website,
+                    'company_email' => $request->company_email,
+                    'job_category' => $request->job_category,
+                    'company_logo' => $request->company_logo,
+                    'job_title' => $request->job_title,
+                    'job_description' => $request->job_description,
+                    'job_type' => $request->job_type,
+                    'job_salary' => $request->job_salary,
+                    'job_location' => $request->job_location
+                ]);
+                return redirect()->route('employer.my.jobs')->with('success', 'Job updated successfully.');
+            } catch (\Exception $exception) {
+                return redirect()->back()->with('error', 'Another job with the same tittle already exists.')
+                    ->withInput($request->all());
+            }
+        }
     public function contact() {
         return view('pages.contact_us');
     }

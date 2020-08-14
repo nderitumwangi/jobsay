@@ -128,7 +128,7 @@ class EmployerController extends Controller
 
     public function editJob(string $id)
     {
-        // Find the blog by id
+        // Find the job by id
         $job = Job::query()->findOrFail($id);
         return view('pages.edit', [
             'job' => $job
@@ -141,17 +141,10 @@ class EmployerController extends Controller
               // Find the post by id
               $job = Job::query()->find($request->id);
 
-              $job->update([
-                  'company_name' => $request->company_name,
-                  'company_website' => $request->company_website,
-                  'company_email' => $request->company_email,
-                  'job_category' => $request->job_category,
-                  'company_logo' => $request->company_logo,
-                  'job_title' => $request->job_title,
-                  'job_description' => $request->job_description,
-                  'job_type' => $request->job_type,
-                  'job_salary' => $request->job_salary,
-                  'job_location' => $request->job_location
+              $job->insert([
+                  'applicant_id' => $request->id,
+                  'job_id' => $request->$id,
+
               ]);
               return redirect()->route('employer.my.jobs')->with('success', 'Job updated successfully.');
           } catch (\Exception $exception) {

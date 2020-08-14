@@ -256,7 +256,7 @@
                                     <div class="kamkaaj-table">
                                         <div class="kamkaaj-table-row">
                                             <div class="kamkaaj-table-cell"><a href="#"
-                                                                               class="kamkaaj-jobs-listing-view1-thumb">
+                                        class="kamkaaj-jobs-listing-view1-thumb">
                                                     <img src="{{ asset('extra-images/' .$job->company_logo) }}" alt=""></a></div>
                                             <div class="kamkaaj-table-cell">
                                                 <div class="kamkaaj-jobs-listing-view1-wrap2">
@@ -279,9 +279,9 @@
                                                     </ul>
 
                                                 </div>
-
+                                                <button class=" btn-block  btn-lg " href=" #" >Apply  Job</button>
                                             </div>
-                                            <button class=" btn-block  btn-lg " href=" #" >Apply  Job</button>
+
                                             <div class="kamkaaj-table-cell">
                                                 <a href="#" class="kamkaaj-job-type-btn"><span>{{ $job->job_type }}</span></a>
                                             </div>
@@ -303,7 +303,7 @@
 
                         <!-- Jobs Listing's -->
                         <div class="kamkaaj-more-spacer"></div>
-                        <div class="kamkaaj-main-load-btn"><a href="#">Browse All Jobs</a></div>
+                        <div class="kamkaaj-main-load-btn"><a href="{{route('job')}}">Browse All Jobs</a></div>
                     </div>
                 </div>
             </div>

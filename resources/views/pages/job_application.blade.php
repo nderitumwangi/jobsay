@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>Recent Blogs</h1>
+                    <h1>Job Application</h1>
                 </div>
             </div>
         </div>
@@ -25,9 +25,7 @@
                 <div class="row">
 
                     <div class="kamkaaj-column-12">
-                        <!-- Search -->
 
-                        <!-- Search -->
                     </div>
 
 

@@ -58,9 +58,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <a href="{{route('index')}}" class="kamkaaj-logo"><img src="{{asset('assets/img/logo.png')}}"
-                                         class="header-logo"/> <span
-                                    class="logo-name">Jobsay</span>
+                        <a href="{{route('index')}}" class="kamkaaj-logo"><img src="assets/img/logo.png"
+                                                                               class="header-logo"/> <span
+                                class="logo-name">Jobsay</span>
                         </a>
                         <div class="kamkaaj-right-head">
                                 <span class="kamkaaj-menu-link">
@@ -113,12 +113,11 @@
                 <div class="row">
                     <!-- Widget Footer About -->
                     <aside class="widget col-md-4 widget_footer_about">
-                        <a href="{{route('index')}}" class="kamkaaj-logo">
-                            <img src="{{asset('assets/img/logo.png')}}"
+                        <a href="index-eight.html" class="kamkaaj-logo"><img src="assets/img/logo.png"
                                                                              class="header-logo"/> <span
-                                    class="logo-name">Jobsay</span>
+                                class="logo-name">Jobsay</span>
                         </a>
-                        <p>Jobsay Recruiting helps you to  find your dream job.</p>
+                        <p>Jobsay Recruiting helps you to find your dream job.</p>
                         <ul>
                             <b>
                                 <li><span>E-mail:</span> <a href="#">dantetrejjo1@gmail.com</a></li>

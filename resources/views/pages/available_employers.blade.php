@@ -271,7 +271,7 @@
                                                     </i> {{ $employer->address }}</span>
                                             </div>
                                             <div class="kamkaaj-table-cell">
-                                                <strong>Detail: <em class="color-time">{{ $employer->company_detail }}</em></strong> <br>
+                                                <strong>Detail: <em>{{ $employer->company_detail }}</em></strong> <br>
                                                 <strong>Description: <em>{{ $employer->description }}</em></strong>
                                             </div>
                                             <div class="kamkaaj-table-cell">
