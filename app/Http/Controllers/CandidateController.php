@@ -81,4 +81,16 @@ class CandidateController extends Controller
         'user'=>$user
           ]  );
     }
+
+    public function applyJob(Request $request){
+        $user = auth()->user();
+        $candidate =auth()->user()->id;
+
+        $job = Job::query()->find($request->id);
+
+
+        return redirect()->route('candidate.dashboard')->with('success', 'Job Applied  successfully.');
+
+    }
+
 }

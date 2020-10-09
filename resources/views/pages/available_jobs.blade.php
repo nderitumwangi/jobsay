@@ -193,62 +193,79 @@
 
                         <!-- Jobs Listing's -->
 
-                        <div class="kamkaaj-jobs kamkaaj-jobs-listing-view1">
-                            @if($jobs->count() >0)
-                                <ul class="row">
-                                    <?php
-                                    $count = 1;
-                                    ?>
-                                    @foreach($jobs as $job)
-                                         <li class="col-md-12">
-                                            <div class="kamkaaj-table">
-                                                <div class="kamkaaj-table-row">
-                                                    <div class="kamkaaj-table-cell"><a href="#" class="kamkaaj-jobs-listing-view1-thumb">
-                                                            <img src="{{ asset('extra-images/' .$job->company_logo) }}" alt=""></a></div>
-                                                    <div class="kamkaaj-table-cell">
-                                                        <div class="kamkaaj-jobs-listing-view1-wrap2">
-                                                            <h1><a href="#">{{ $job->job_title }}</a></h1>
+                        <!-- Main Section -->
+                        <div class="kamkaaj-main-section kamkaaj-jobs-listing-view1-full">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
 
-                                                            <h2><a href="#">{{ $job->company_name }}</a></h2>
+                                        <!-- FancyTitle -->
+                                        <!-- Jobs Listing's -->
 
-                                                            <ul class="kamkaaj-jobs-listing-view1-options">
-                                                                <li><i class="icon-flat kamkaaj-map-pin-fill"></i>
-                                                                    {{ $job->job_location }}
+                                        <div class="kamkaaj-jobs kamkaaj-jobs-listing-view1">
+                                            @if($jobs->count() >0)
+                                                <ul class="row">
+                                                    <?php
+                                                    $count = 1;
+                                                    ?>
+                                                    @foreach($jobs as $job)
+                                                        <li class="col-md-12">
+                                                            <div class="kamkaaj-table">
+                                                                <div class="kamkaaj-table-row">
+                                                                    <div class="kamkaaj-table-cell"><a href="#"
+                                                                                                       class="kamkaaj-jobs-listing-view1-thumb">
+                                                                            <img src="{{ asset('extra-images/' .$job->company_logo) }}" alt=""></a></div>
+                                                                    <div class="kamkaaj-table-cell">
+                                                                        <div class="kamkaaj-jobs-listing-view1-wrap2">
+                                                                            <h1><a href="#">{{ $job->job_title }}</a></h1>
 
-                                                                </li>
-                                                                <li><i class="icon-flat kamkaaj-calendar"></i>
-                                                                    {{ $job->created_at }}
-                                                                </li>
-                                                                <li><i class="icon-flat kamkaaj-filter-tool-black-shape"></i>
-                                                                    <a href="#">{{ $job->job_category }}</a></li>
+                                                                            <h2><a href="#">{{ $job->company_name }}</a></h2>
 
-3
-                                                            </ul>
+                                                                            <ul class="kamkaaj-jobs-listing-view1-options">
+                                                                                <li><i class="icon-flat kamkaaj-map-pin-fill"></i>
+                                                                                    {{ $job->job_location }}
 
-                                                        </div>
+                                                                                </li>
+                                                                                <li><i class="icon-flat kamkaaj-calendar"></i>
+                                                                                    {{ $job->created_at }}
+                                                                                </li>
+                                                                                <li><i class="icon-flat kamkaaj-filter-tool-black-shape"></i>
+                                                                                    <a href="#">{{ $job->job_category }}</a></li>
+                                                                                <li><i class="fa fa-heart"></i> <a href="#">Like Job</a></li>
 
-                                                    </div>
-                                                    <button class=" btn-block  btn-lg " href="{{route('')}}">Apply  Job</button>
-                                                    <div class="kamkaaj-table-cell">
-                                                        <a href="#" class="kamkaaj-job-type-btn"><span>{{ $job->job_type }}</span></a>
-                                                    </div>
+                                                                            </ul>
 
+                                                                        </div>
+                                                                        <a class=" btn-block  btn-lg " href=" {{route('login')}}" >Login to Apply</a>
+                                                                    </div>
+
+                                                                    <div class="kamkaaj-table-cell">
+                                                                        <a href="#" class="kamkaaj-job-type-btn"><span>{{ $job->job_type }}</span></a>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    @endforeach
+                                                </ul>
+                                            @else
+                                                <div class="alert alert-danger alert-dismissible" role="alert">
+                                                    No records found, try again later!
+                                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
                                                 </div>
-                                            </div>
-                                        </li>
-                                    @endforeach
-                                </ul>
-                            @else
-                                <div class="alert alert-danger alert-dismissible" role="alert">
-                                    No records found, try again later!
-                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
+                                            @endif
+                                        </div>
+
+                                        <!-- Jobs Listing's -->
+                                        <div class="kamkaaj-more-spacer"></div>
+                                        <div class="kamkaaj-main-load-btn"><a href="{{route('job')}}">Browse All Jobs</a></div>
+                                    </div>
                                 </div>
-                            @endif
+                            </div>
                         </div>
-
-
+                        <!-- Main Section -->
                         <!-- Jobs Listing's -->
 
                     </div>

@@ -187,7 +187,7 @@ Route::get('/applyJob', [
     'uses' => 'ApplicationController@applyJob',
     'as' => 'apply.job'
 ]);
-Route::post('/applyJob', [
-    'uses' => 'ApplicationController@applyJob',
+Route::get('/candidate/job/apply', [
+    'uses' => 'CandidateController@applyJob',
     'as' => 'apply.job'
 ]);

@@ -95,7 +95,7 @@
             </div><!-- end alljobs -->
 @endif
         </div><!-- end container -->
-    </div><!-- end section -->
+    <!-- end section -->
 
 
     <div class="section wb">
@@ -300,7 +300,7 @@
             </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
-</div><!-- end wrapper -->
+<!-- end wrapper -->
 <!-- /END SITE -->
 
 <!-- ******************************************

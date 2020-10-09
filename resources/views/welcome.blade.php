@@ -279,7 +279,7 @@
                                                     </ul>
 
                                                 </div>
-                                                <button class=" btn-block  btn-lg " href=" #" >Apply  Job</button>
+                                                <a class=" btn-block  btn-lg " href=" {{route('login')}}" >Login to Apply</a>
                                             </div>
 
                                             <div class="kamkaaj-table-cell">
