@@ -75,7 +75,7 @@
                         <div class="col-md-2 col-sm-2 col-xs-12">
                             <div class="job-meta text-center">
                                 <h4>{{ $job->job_salary }}</h4>
-                                <a href="{{route('apply.job')}}" class="btn btn-primary btn-sm btn-block">Apply Job</a>
+                                <a href="{{route('apply.job',['id'=>$job->id])}}" class="btn btn-primary btn-sm btn-block">Apply Job</a>
                             </div>
                         </div><!-- end col -->
 

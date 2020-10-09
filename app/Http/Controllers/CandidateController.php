@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\apply_job;
 use App\Job;
 use App\Application;
 use Illuminate\Http\Request;
@@ -82,15 +83,15 @@ class CandidateController extends Controller
           ]  );
     }
 
-    public function applyJob(Request $request){
-        $user = auth()->user();
-        $candidate =auth()->user()->id;
+    public function applyJob(String $id){
 
-        $job = Job::query()->find($request->id);
+        $apply = apply_job::query()->create([
 
+            'user_id' => auth()->user()->id,
+            'job_id' => $id
 
-        return redirect()->route('candidate.dashboard')->with('success', 'Job Applied  successfully.');
-
+        ]);
+        return redirect()->route('candidate.dashboard')->with('success',"You have successfully applied for  a job");
     }
 
 }

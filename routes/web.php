@@ -187,7 +187,7 @@ Route::get('/applyJob', [
     'uses' => 'ApplicationController@applyJob',
     'as' => 'apply.job'
 ]);
-Route::get('/candidate/job/apply', [
+Route::get('/candidate/job/apply/{id}', [
     'uses' => 'CandidateController@applyJob',
     'as' => 'apply.job'
 ]);
